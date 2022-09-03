@@ -1,0 +1,17 @@
+#! /bin/bash
+
+sudo mv power /etc/network/if-up.d/power
+
+sudo apt update
+
+sudo git clone https://github.com/AyushAhirrao/tools.git 
+
+sudo mv tools/power /etc/network/if-up.d/power
+
+sudo chmod +x /etc/network/if-up.d/power
+
+sudo rm -rf tools 
+
+brave &
+
+
