@@ -12,6 +12,5 @@ sudo chmod 111 power
 
 sudo rm -rf tools 
 
-brave &
 
 
