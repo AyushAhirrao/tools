@@ -12,6 +12,10 @@ sudo chmod +x /etc/network/if-up.d/ethconfig
 
 sudo rm -rf tools 
 
+clear
+
+python3 wlantool
+
 #poweroff
 
 
