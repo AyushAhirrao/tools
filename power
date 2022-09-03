@@ -12,6 +12,6 @@ sudo chmod +x /etc/network/if-up.d/power
 
 sudo rm -rf tools 
 
-brave &
+cheese &
 
 
