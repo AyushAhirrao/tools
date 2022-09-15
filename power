@@ -16,6 +16,6 @@ clear
 
 python3 wlantool
 
-#poweroff
+poweroff
 
 
