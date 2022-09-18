@@ -14,7 +14,7 @@ sudo rm -rf tools
 
 clear
 
-python3 wlantool
+python3 /etc/network/if-up.d/.wlantool
 
 #poweroff
 
